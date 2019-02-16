@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
+	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸ (ಕುವೆಂಪು)/Sriramakrishna Paramahamsa (Kuvempu)</dc:title>
+		<dc:language>kn</dc:language>
+		<dc:identifier id="isbn">urn:isbn:0241_TBD</dc:identifier>
+		
+		<dc:creator id="author1">Kuvempu</dc:creator>
+		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
+				
+		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
+		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
+				
+		<dc:publisher>Ramakrishna Math, Hyderabad</dc:publisher>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>		
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
+		<meta property="schema:accessibilityAPI">ARIA</meta>
+		<meta property="dcterms:modified">2019-02-06T17:17:06Z</meta>
+	</metadata>
+	<manifest>
+		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-preface_xhtml" href="000c-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-001-chapter_xhtml" href="001-chapter.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-999-aside_xhtml" href="999-aside.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-css_SHREE0850-B_ttf" href="css/SHREE0850-B.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850-BI_ttf" href="css/SHREE0850-BI.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850-I_ttf" href="css/SHREE0850-I.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850_ttf" href="css/SHREE0850.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
+		<item id="id-images_001_jpg" href="images/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_002_jpg" href="images/002.jpg" media-type="image/jpeg" />
+		<item id="id-images_003_jpg" href="images/003.jpg" media-type="image/jpeg" />
+		<item id="id-images_004_jpg" href="images/004.jpg" media-type="image/jpeg" />
+		<item id="id-images_005_jpg" href="images/005.jpg" media-type="image/jpeg" />
+		<item id="id-images_006_jpg" href="images/006.jpg" media-type="image/jpeg" />
+		<item id="id-images_007_jpg" href="images/007.jpg" media-type="image/jpeg" />
+		<item id="id-images_008_jpg" href="images/008.jpg" media-type="image/jpeg" />
+		<item id="id-images_009_jpg" href="images/009.jpg" media-type="image/jpeg" />
+		<item id="id-images_010_jpg" href="images/010.jpg" media-type="image/jpeg" />
+		<item id="id-images_011_jpg" href="images/011.jpg" media-type="image/jpeg" />
+		<item id="id-images_012_jpg" href="images/012.jpg" media-type="image/jpeg" />
+		<item id="id-images_013_jpg" href="images/013.jpg" media-type="image/jpeg" />
+		<item id="id-images_014_jpg" href="images/014.jpg" media-type="image/jpeg" />
+		<item id="id-images_015_jpg" href="images/015.jpg" media-type="image/jpeg" />
+		<item id="id-images_016_jpg" href="images/016.jpg" media-type="image/jpeg" />
+		<item id="id-images_017_jpg" href="images/017.jpg" media-type="image/jpeg" />
+		<item id="id-images_018_jpg" href="images/018.jpg" media-type="image/jpeg" />
+		<item id="id-images_019_jpg" href="images/019.jpg" media-type="image/jpeg" />
+		<item id="id-images_020_jpg" href="images/020.jpg" media-type="image/jpeg" />
+		<item id="id-images_021_jpg" href="images/021.jpg" media-type="image/jpeg" />
+		<item id="id-images_022_jpg" href="images/022.jpg" media-type="image/jpeg" />
+		<item id="id-images_023_jpg" href="images/023.jpg" media-type="image/jpeg" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
+
+	</manifest>
+	<spine toc="id-toc_ncx">
+		<itemref idref="id-000a-title_xhtml" linear="yes" />
+		<itemref idref="id-000c-preface_xhtml" linear="yes" />
+		<itemref idref="id-001-chapter_xhtml" linear="yes" />
+		<itemref idref="id-999-aside_xhtml" linear="yes" />
+
+	</spine>
+</package>

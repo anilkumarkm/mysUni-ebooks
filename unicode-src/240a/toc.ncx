@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:0240a_TBD"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಭಗವಾನ್ ಶ್ರೀರಾಮಕೃಷ್ಣ /Bhagavan Sriramakrishna</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>FOREWORD</text></navLabel><content src="000c-preface.xhtml#id-000c"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>PUBLISHERS NOTE</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>Address delivered at the Convocation of the University of Mysore on Saturday 8th December 1951, by Raiasevasaktha Sri A. R. Wadia, Pro-Vice-Chancellor MS. University of Baroda</text></navLabel><content src="001-chapter.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>Address delivered at the Convocation of  the University of Mysore on Tuesday, 2nd December 1952, by Sir Ivor Jennings. Vice-Chancellor of the University of Ceylon.</text></navLabel><content src="001-chapter.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text> Address delivered at the Mysore University Convocation on 9th October 1954, by Sir S.V. Ramamurthy, M.A., D. Litt.. I.C.S., K.C.I.E.</text></navLabel><content src="001-chapter.xhtml#id-003"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>Address delivered at the Convocation of the University of Mysore on Thursday, 27th October 1955, by Prof. M.S. Thacker Director, Council of Scientific and Industrial Research, Government of India</text></navLabel><content src="001-chapter.xhtml#id-004"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>Address delivered at the Convocation of 
+		the University of Mysore on Saturday, 1st February 1958, by Padmavibhushan Shri M.C. Setalvad, Attorney-Goneral of India.</text></navLabel><content src="001-chapter.xhtml#id-005"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>Address delivered at the Convocation of the University of Mysore on Sunday 2nd October 1960 by Anna Rao Ganamukhi, Minister for Education and Pro-Chancellor, Mysore University</text></navLabel><content src="001-chapter.xhtml#id-006"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>Address delivered at the Convocation of the University of Mysore on Monday 10th December 1962 by Dr. D.S. KothariChairman, University Grants Commission, New Delhi</text></navLabel><content src="001-chapter.xhtml#id-007"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>﻿ Address delivered at the Convocation of the University of Mysore on Monday 29th November 1965 by Jayaprakash Narayan</text></navLabel><content src="001-chapter.xhtml#id-008"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>﻿﻿ Address delivered at the Convocation of the University of Mysore on Tuesday 27th January 1970 by Prof. V.K.R.V. Rao, Union Minister of Education and Youth Services</text></navLabel><content src="001-chapter.xhtml#id-009"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>﻿﻿ Address delivered at the Convocation of the University of Mysore on Sunday 8th February 1976 By Dr. H.N. Sethna, Chairman, Atomic Energy Commission, Bombay</text></navLabel><content src="001-chapter.xhtml#id-010"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>﻿﻿ CONVOCATION ADDRESS BY SRI ARJUN SINGH, HON'BLE UNION MINISTER FOR HUMAN RESOURCE DEVELOPMENT, GOVERNMENT OF INDIA, NEW DELHI ON THURSDAY, 10 FEBRUARY 1994</text></navLabel><content src="001-chapter.xhtml#id-011"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>CONVOCATION ADDRESS BY DR. A.P.J. ABDUL KALAM, SCIENTIFIC ADVISER TO RAKSHA MANTRI AND SECRETARY, DEPARTMENT OF DEFENCE RESEARCH &amp; DEVELOPMENT ON 25 FEBRUARY 1995</text></navLabel><content src="001-chapter.xhtml#id-012"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>ADDRESS</text></navLabel><content src="001-chapter.xhtml#id-013"/>
+</navPoint>
+   </navMap>
+</ncx>
