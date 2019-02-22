@@ -1,9 +1,9 @@
 {
     "books": {
-        "0240": {
+        "240": {
             "language": "kn",
             "identifier": "srkmys-ebooks/101",
-            "isbn": "0240_TBD",
+            "isbn": "240_TBD",
             "title": "ಗುರುದೇವ ಶ್ರೀರಾಮಕೃಷ್ಣ/Gurudeva Sriramakrishna",
             "creators": {
                 "author": "Compilation"
@@ -15,7 +15,7 @@
         "240a": {
             "language": "kn",
             "identifier": "srkmys-ebooks/102",
-            "isbn": "0240a_TBD",
+            "isbn": "240a_TBD",
             "title": "ಭಗವಾನ್ ಶ್ರೀರಾಮಕೃಷ್ಣ /Bhagavan Sriramakrishna",
             "creators": {
                 "author": "Swami Somanathananda"
@@ -27,7 +27,7 @@
         "241": {
             "language": "kn",
             "identifier": "srkmys-ebooks/103",
-            "isbn": "0241_TBD",
+            "isbn": "241_TBD",
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸ (ಕುವೆಂಪು)/Sriramakrishna Paramahamsa (Kuvempu)",
             "creators": {
                 "author": "Kuvempu"
